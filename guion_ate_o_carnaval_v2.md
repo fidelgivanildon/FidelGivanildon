@@ -6,6 +6,8 @@ Clips de 3–6 s, **una acción por clip**. Unos ~65–70 clips. Tiempos exactos
 
 > Cambios respecto a la v1 marcados con **[CAMBIO]**. La historia, el orden y los personajes no cambian.
 
+**Orden de montaje aprobado (según la canción):** Sec.1 → 2 → 3 → 4 → Sec.5 (planos 1–4, arranque) → Sec.6 (Verso 2) → Sec.5 (planos 5–10 + girasoles, Refrão 2 con taiko) → 7 → 8 → 9. Tiempos en `tiempos_estimados.md`.
+
 ---
 
 ## 0. Reglas globales
