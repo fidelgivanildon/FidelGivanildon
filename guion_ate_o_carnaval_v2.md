@@ -13,7 +13,7 @@ Clips de 3–6 s, **una acción por clip**. Unos ~65–70 clips. Tiempos exactos
 1. **Texto en pantalla** (Floristería Carnaval, POLICÍA, BANG!, cartel HASTA EL PRÓXIMO CARNAVAL): **se añade en edición**. Generar sin texto legible. **[CAMBIO]**
 2. **Identidad por cortes**, nunca transformaciones. Rostro natural y de payaso nunca en el mismo plano.
 3. **Un solo espejo/retrovisor bien resuelto**; el resto de la idea se cuenta con planos directos. **[CAMBIO]**
-4. **Detalles opcionales** (si se deforman, se quitan): pendientes, gráficos F⭐G, coronas, estrellas. **[CAMBIO]**
+4. **Detalles opcionales** (si se deforman, se quitan): pendientes, coronas, estrellas. Las letras **FG** (iniciales del autor) solo en planos estáticos o cercanos; en acción, ropa lisa y logo añadido en edición si hace falta. **[CAMBIO]**
 5. Física: gravedad, peso, inercia. Nada flota, nada atraviesa, nada aparece de la nada.
 6. Cámara simple: fija, travelling, acercamiento lento, retroceso, plano bajo, aéreo.
 7. Cada clip se genera desde **imagen de referencia** (primer fotograma) y, cuando convenga, **último fotograma**.
@@ -68,6 +68,11 @@ Música: primer estribillo.
 2. El Monster Truck se aproxima; los agentes lo miran.
 3. Plano medio desde la ventanilla: el payaso sostiene el juguete verde (R7). **[CAMBIO: sin apuntar a nadie; juguete y mano]**
 4. **Primer plano solo del juguete y la mano**: sale una pequeña bandera roja del cañón (el texto BANG! se añade en edición). **[CAMBIO]**
+   **Para que se entienda que apunta a los policías (montaje, sin mostrar arma + policía en un mismo clip):**
+   - 3a. Plano de mirada: el payaso mira hacia la **izquierda** de la pantalla (fuera de campo) con sonrisa provocadora.
+   - 4. Juguete y mano, el cañón **orientado a la izquierda** de la pantalla (misma dirección que la mirada).
+   - 4b. Plano de reacción: los agentes, **mirando hacia la derecha** de la pantalla (hacia el camión), se quedan quietos.
+   - La **dirección de pantalla** y las **miradas** hacen que el espectador una los planos. Si el filtro lo permite, variante: juguete en primer plano y agentes desenfocados al fondo (probar en el test).
 5. Los dos agentes se miran sorprendidos (clip aparte, sin juguete).
 6. **[CAMBIO]** Corte: interior del coche patrulla con los agentes **ya con los sacos de arpillera** en la cabeza (dos clips: agentes sin saco → agentes con saco; no se muestra el acto de ponérselos).
 7. Los agentes arrancan; luces de emergencia.
